@@ -1,0 +1,19 @@
+{
+  "name": "mc-typings",
+  "version": "1.0.0",
+  "description": "Typings for marketing cloud SSJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpha-bytes/mcloud-typed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpha-bytes/mcloud-typed/issues"
+  },
+  "homepage": "https://github.com/alpha-bytes/mcloud-typed#readme"
+}
